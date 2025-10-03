@@ -1,1 +1,14 @@
 
+## Dataset
+
+This project uses the **NASA Exoplanet Archive dataset**:
+
+- Source: [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)
+- Version: 2025-09 release
+- License: Public (NASA Open Data)
+- Description: Contains confirmed exoplanets with parameters such as distance, radius, habitability score, and detection method.
+
+Due to file size, the dataset is not stored in this repository.  
+You can download it directly from the [official link](https://exoplanetarchive.ipac.caltech.edu/).  
+
+Dataset_Machine_Learning_Exoplanets_2024 (Taken from NASA) --  (https://data.mendeley.com/datasets/wctcv34962/3)
