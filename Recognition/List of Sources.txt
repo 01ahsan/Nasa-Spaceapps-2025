@@ -1,1 +1,39 @@
+## Dataset
+- **Source:** [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/)  
+- **Version:** 2025-09 release  
+- **Description:** Contains confirmed exoplanets with parameters such as distance, radius, habitability score, and detection method.  
+- **License:** Public (NASA Open Data)  
+- **Note:** Dataset is not stored in this repository due to size. Download from the official link before running the project.  
 
+---
+
+##  Audio Generation
+- **Tool:** [Google AI Studio](https://aistudio.google.com/generate-speech)  
+- **Reason:** Audio recordings were generated using AI because we live in a crowded and noisy environment, making traditional recording unfeasible.  
+
+---
+
+##  Tools & Technologies
+### Development & Deployment
+- React / ReactJS  
+- Vite  
+- TailwindCSS  
+- Netlify  
+- Render  
+- GitHub  
+
+### Design & Assets
+- Canva / Canva Gemini  
+- NASA Images  
+
+### Analysis & Visualization
+- Google Colab  
+- Recharts  
+- Framer Motion  
+
+### AI Assistance
+- ChatGPT  
+
+---
+
+## Folder Structure
